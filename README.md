@@ -6,7 +6,7 @@
 <!-- ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px"> Hello World -->
 ## 👋 Hello World!
 
-I'm a brazilian computer science student at Federal University of Ceara (UFC)
+Estudante de Ciência da Computação pela Universidade Federal do Ceará (UFC)
 
 ## GitHub Analytics
 
